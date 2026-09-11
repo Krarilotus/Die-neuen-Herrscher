@@ -1,6 +1,6 @@
 name: Die-neuen-Herrscher
 author: Hacksuelze
-version: 1.0.0
+version: 1.0.1
 dependencies:
   Die-neuen-Herrscher-KI-Files: ^1.0.0
   aiSwapper: ^1.1.0
@@ -11,3 +11,14 @@ dependencies:
   ucp2-legacy: ^2.15.1
 type: plugin
 display-name: Die-neuen-Herrscher
+tags:
+- modpack
+- ai
+family:
+- name: die-neuen-herrscher
+  root: true
+capabilities:
+  files: false
+  code: false
+  configuration: true
+  options: false
