@@ -17,8 +17,3 @@ tags:
 family:
 - name: die-neuen-herrscher
   root: true
-capabilities:
-  files: false
-  code: false
-  configuration: true
-  options: false
